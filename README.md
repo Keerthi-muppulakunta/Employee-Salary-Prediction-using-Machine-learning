@@ -12,19 +12,23 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 
 ### Top 10 Highest Earning Professions
-![Gender Distribution](images/Top10.png)
+![Gender Distribution](<img width="1189" height="790" alt="Top10" src="https://github.com/user-attachments/assets/3d5042bb-7b63-40f3-8346-2269a7d70e3f" />)
+
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables
-![Age Distribution](images/Distribution.png)
+![Age Distribution](<img width="1189" height="1489" alt="Distribution" src="https://github.com/user-attachments/assets/8d54420c-0f8d-4810-9943-92914f4e07a5" />)
+
 *This histogram shows the distribution of continuous variables in the dataset.*
 
-### Distribution of Education and Gender
-![Salary vs. Education](images/ed&gender_distribution.png)
+### Distribution of EduEducation and Gender
+ (<img width="1489" height="490" alt="ed gender_distribution" src="https://github.com/user-attachments/assets/fc8b36cb-8262-46b9-afa4-136d1fa524b1" />)
+![Salary vs. Education]()
 *A plot displaying the Education Level and Gender.*
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/Heatmap.png)
+![Correlation Heatmap](<img width="831" height="790" alt="Heatmap" src="https://github.com/user-attachments/assets/e087c785-31ce-4ac5-a8c3-e6608126986d" />)
+
 *A heatmap illustrating the correlation between different features.*
 
 ## Model Building and Evaluation
@@ -37,7 +41,8 @@ We explored various machine learning algorithms, including Linear Regression, De
 Each model's performance was evaluated using several regression metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R2) score. These metrics help assess the accuracy and reliability of the predictions.
 
 ### Feature Importance
-![Feature Importance](images/Feature_Imp.png)
+![Feature Importance](<img width="1095" height="699" alt="Feature_Imp" src="https://github.com/user-attachments/assets/3e07af84-9ced-4684-ab49-4bfce851f53c" />)
+
 *A bar chart depicting the importance of different features in predicting salary.*
 
 ## Results
